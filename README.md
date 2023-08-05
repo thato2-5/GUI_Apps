@@ -1,2 +1,2 @@
 # GUI_Apps
-Basic custom apss
+Basic custom apps using Qt c++.
